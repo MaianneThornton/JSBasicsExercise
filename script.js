@@ -9,7 +9,7 @@ console.log(9);
 
 // 4
 console.log(5%2); // 5 divided by 2 has a remainder of 1
-console.log(5%4); // 5 divided by 4 has a remaider of 1
+console.log(5%4); // 5 divided by 4 has a remainder of 1
 
 // 5
 console.log('I\'M MARY POPPINS, Y\'ALL!');
